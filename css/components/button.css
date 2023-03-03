@@ -1,0 +1,22 @@
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 250px;
+  text-align: center;
+  line-height: 3;
+  color: white;
+}
+
+a:link, a:visited, a:focus {
+  background: #2D3E4E;
+}
+
+a:hover {
+  background: #8CBDB9;
+}
+
+a:active {
+  background: #E8ECEB;
+  color: black;
+}
